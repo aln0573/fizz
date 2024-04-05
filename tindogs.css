@@ -1,0 +1,57 @@
+ *{
+    margin: 0;
+ }
+ .col-lg-12{
+    /* height: 500px; */
+    background-size: cover;
+    width: 100vw;
+    
+ }
+
+ .img-fluid{
+   background-size: cover;
+   width: 100vw;
+   
+ }
+ #first{
+    height: 954px;
+    background-color: black;
+     
+ }
+ /* #fan{
+    width: 23%;
+    height: 50%;
+    padding-left: 273px;
+    padding-top: 314px;
+ } */
+ .nav-link- :hover{
+    text-decoration: none;
+    color: orange;
+ }
+#image-fb{
+   width: 5%;
+} 
+#image-insta{
+   width: 5%;
+}
+#image-twitter{
+   width: 5%;
+}
+#image-youtube{
+   width: 5%;
+}
+address a{
+   color: #0a0b27;
+   text-decoration: none;
+   font-weight: bolder;
+}
+a:hover{
+   color: red;
+}
+@media screen and (min-width: 400px) {
+
+   address{
+      src: format();
+   }
+}
+
